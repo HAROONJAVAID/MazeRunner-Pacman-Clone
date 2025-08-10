@@ -25,18 +25,6 @@ MazeRunner is a modern take on the classic Pac-Man gameplay:
 
 ---
 
-## 📂 Project Structure
-Assets/
-│
-├── Art/ # Models, sprites, and textures
-├── Audio/ # Sound effects and background music
-├── Materials/ # Unity materials
-├── Prefabs/ # Reusable game objects
-├── Scenes/ # Game levels and menus
-├── Scripts/ # C# scripts for gameplay logic
-└── UI/ # User interface elements
-
----
 
 ## 🛠 Technologies Used
 - **Game Engine**: Unity 2021 LTS
